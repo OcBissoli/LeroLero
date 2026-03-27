@@ -1,0 +1,12 @@
+import random 
+
+parte_1 = ["", "", ""]
+parte_2 = ["", "", ""]
+parte_3 = ["", "", ""]
+
+option = int(input("iAi, ta entendo? então 1, enão: JUST DO IT (press 2): ")
+
+if option == 2:
+	parte_1 = 
+
+print(random.choice(parte_1),random.choice(parte_2),random.choice(parte_3))
